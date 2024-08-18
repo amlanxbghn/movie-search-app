@@ -1,8 +1,6 @@
-# MovieLand
+# Movie Verse
 
-**MovieLand** is a modern and minimalistic React application that allows users to search for movies and view their details. Utilizing the OMDB API, MovieLand fetches and displays movie data with a clean, light-themed user interface.
-
-![MovieLand Screenshot](path/to/screenshot.png) <!-- Replace with an actual screenshot of your project -->
+**Movie Verse** is a modern and minimalistic React application that allows users to search for movies and view their details. Utilizing the OMDB API, MovieLand fetches and displays movie data with a clean, light-themed user interface.
 
 ## Features
 
