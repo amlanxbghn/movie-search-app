@@ -1,6 +1,6 @@
 # Movie Verse
 
-**Movie Verse** is a modern and minimalistic React application that allows users to search for movies and view their details. Utilizing the OMDB API, MovieLand fetches and displays movie data with a clean, light-themed user interface.
+**Movie Verse** is a modern and minimalistic React application that allows users to search for movies and view their details. Utilizing the OMDB API, Movie Verse fetches and displays movie data with a clean, light-themed user interface.
 
 ## Features
 
