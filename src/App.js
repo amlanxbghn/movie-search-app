@@ -20,7 +20,7 @@ const App = () => {
   return (
     <div className="min-h-screen bg-gray-100 text-gray-900 font-sans p-6 md:p-12">
       <div className="flex flex-col items-center">
-        <h1 className="text-4xl font-bold mb-8">Movie Verse</h1>
+        <h1 className="text-4xl font-bold mb-8"><a href="/">Movie Verse</a></h1>
 
         <div className="w-full max-w-lg flex items-center bg-white rounded-full shadow-sm overflow-hidden">
           <input
